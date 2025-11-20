@@ -1,0 +1,21 @@
+author_name,department,title,year,citations,journal,keywords
+Dr. R. Sharma,Computer Science,AI in Healthcare,2021,45,IEEE Access,Artificial Intelligence; Machine Learning; Healthcare
+Dr. P. Kaur,Mechanical Engineering,Smart Materials for Sensors,2022,38,Elsevier,Smart Materials; Sensors; Nanotech
+Dr. S. Gupta,Electrical Engineering,Power Optimization in IoT Devices,2020,28,IEEE Transactions,IoT; Power; Optimization
+Dr. A. Verma,Civil Engineering,Green Concrete Innovations,2023,15,Springer,Concrete; Sustainability; Materials
+Dr. N. Singh,Physics,Quantum Dot Lasers,2019,52,Optics Letters,Quantum; Lasers; Nanomaterials
+Dr. R. Sharma,Computer Science,Deep Learning for Image Segmentation,2022,64,ACM Transactions,Deep Learning; Computer Vision
+Dr. P. Kaur,Mechanical Engineering,3D Printing in Biomechanics,2023,41,Elsevier,3D Printing; Biomechanics; Simulation
+Dr. S. Gupta,Electrical Engineering,Renewable Energy Storage Systems,2021,33,IEEE Energy,Renewable; Energy; Storage
+Dr. A. Verma,Civil Engineering,Seismic Design of Structures,2020,26,ASCE,Seismic; Civil; Design
+Dr. N. Singh,Physics,Nano Particle Fabrication,2022,44,Science Direct,Nanotech; Fabrication; Physics
+Dr. M. Mehta,Chemistry,Organic Solar Cells,2021,35,Elsevier,Organic; Solar; Photovoltaics
+Dr. K. Patel,Mathematics,Optimization Algorithms for Big Data,2022,48,Springer,Optimization; Algorithms; Big Data
+Dr. A. Verma,Civil Engineering,Water Treatment Technologies,2021,20,ASCE,Water; Filtration; Environment
+Dr. R. Sharma,Computer Science,AI for Education Analytics,2023,55,Nature AI,AI; Education; Data Analytics
+Dr. P. Kaur,Mechanical Engineering,Smart Manufacturing Systems,2020,29,Elsevier,Manufacturing; Automation; IoT
+Dr. S. Gupta,Electrical Engineering,EV Battery Management,2023,37,IEEE Access,Electric Vehicles; Battery; Power
+Dr. N. Singh,Physics,Photonics in Quantum Circuits,2021,49,Optics Letters,Photonics; Quantum; Circuits
+Dr. M. Mehta,Chemistry,Catalysts for Hydrogen Production,2023,32,RSC Advances,Catalysts; Hydrogen; Chemistry
+Dr. K. Patel,Mathematics,Neural Network Optimization,2020,46,Springer,Neural Networks; Optimization; AI
+Dr. A. Verma,Civil Engineering,Sustainable Building Materials,2022,23,ASCE,Construction; Green; Materials
